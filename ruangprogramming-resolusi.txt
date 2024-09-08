@@ -1,0 +1,5 @@
+ruang programming resolusi
+- belajar git dan github
+- belajar java
+- belajar kotlin
+konsiten melakukannya
